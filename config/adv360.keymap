@@ -79,11 +79,11 @@
 
         layer_Dubug {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans          &trans                &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans          &trans                &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans           &none  &mt LALT RIGHT_SHIFT                  &kp F2  &kp F5  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans          &trans        &macro_kinesis  &trans  &trans  &kp F7  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &macro_dquotes                &kp F9  &kp F8  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans          &trans          &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans          &trans          &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans          &trans          &trans                  &kp F2  &kp F5  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans          &trans  &macro_kinesis  &trans  &trans  &kp F7  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans  &macro_dquotes          &kp F9  &kp F8  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
