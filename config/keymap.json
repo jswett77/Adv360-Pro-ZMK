@@ -35,11 +35,11 @@
         "&none",        "&none",        "&none",        "&none",        "&none",           "&none",                            "&none",       "&none",        "&none",        "&none",           "&none",        "&none",        "&none",                  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",   "&bl BL_INC",   "&bl BL_DEC", "&rgb_ug RGB_TOG",                       "&bl BL_TOG",       "&none",        "&none",   "&bl BL_TOG", "&rgb_ug RGB_TOG",   "&bl BL_INC",   "&bl BL_DEC",                  "&none",  "&none",  "&none"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",         "&trans",         "&trans", "&trans", "&trans", "&trans",                   "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",         "&trans",         "&trans", "&trans", "&trans", "&trans",                   "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",          "&none",         "&trans",                     "&kp F2", "&mt LEFT_ALT(RIGHT_SHIFT(F5))", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",         "&trans", "&macro_kinesis", "&trans", "&trans", "&kp F7",                   "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&macro_dquotes",         "&kp F9", "&kp F8", "&trans", "&trans",                   "&trans", "&trans", "&trans", "&trans"
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",         "&trans",               "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",         "&trans",               "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",          "&none", "&mt LALT RIGHT_SHIFT",                     "&kp F2", "&kp F5", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",         "&trans",       "&macro_kinesis", "&trans", "&trans", "&kp F7", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&macro_dquotes",               "&kp F9", "&kp F8", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
   ]
 }
