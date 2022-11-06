@@ -35,11 +35,11 @@
         "&none",        "&none",        "&none",        "&none",        "&none",           "&none",                            "&none",       "&none",        "&none",        "&none",           "&none",        "&none",        "&none",                  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",   "&bl BL_INC",   "&bl BL_DEC", "&rgb_ug RGB_TOG",                       "&bl BL_TOG",       "&none",        "&none",   "&bl BL_TOG", "&rgb_ug RGB_TOG",   "&bl BL_INC",   "&bl BL_DEC",                  "&none",  "&none",  "&none"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",         "&trans",         "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",         "&trans",         "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",         "&trans",         "&trans",                     "&kp F2", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",         "&trans", "&macro_kinesis", "&trans", "&trans", "&kp F7", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&macro_dquotes",         "&kp F9", "&kp F8", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans"
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",         "&trans",         "&trans", "&trans", "&trans", "&trans",             "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",         "&trans",         "&trans", "&trans", "&trans", "&trans",             "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",         "&trans",         "&trans",                     "&kp F2", "&macro_m_att_debug", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",         "&trans", "&macro_kinesis", "&trans", "&trans", "&kp F7",             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&macro_dquotes",         "&kp F9", "&kp F8", "&trans", "&trans",             "&trans", "&trans", "&trans", "&trans"
     ]
   ]
 }
