@@ -37,7 +37,7 @@
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",         "&trans",         "&trans", "&trans", "&trans", "&trans",             "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",         "&trans",         "&trans", "&trans", "&trans", "&trans",             "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",         "&trans",         "&trans",                     "&kp F2", "&macro_m_att_debug", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",   "&kp LEFT_GUI",         "&trans",                     "&kp F2", "&macro_m_att_debug", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",         "&trans", "&macro_kinesis", "&trans", "&trans", "&kp F7",             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&macro_dquotes",         "&kp F9", "&kp F8", "&trans", "&trans",             "&trans", "&trans", "&trans", "&trans"
     ]
